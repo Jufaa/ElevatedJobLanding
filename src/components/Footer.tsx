@@ -64,7 +64,7 @@ export function Footer() {
         </div>
         <div className="flex flex-col md:flex-row justify-between items-center pt-8">
           <p className="text-slate-400 text-sm">
-            © {new Date().getFullYear()} ProductName. Todos los derechos
+            © {new Date().getFullYear()} ElevatedJob. Todos los derechos
             reservados.
           </p>
           <button onClick={scrollToTop} className="mt-4 md:mt-0 bg-indigo-600 p-3 rounded-full hover:bg-indigo-700 transition-colors" aria-label="Volver arriba">
